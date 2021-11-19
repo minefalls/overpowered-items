@@ -1,0 +1,10 @@
+name: MineFallsFreeForAll
+version: '${project.version}'
+main: xyz.minefalls.minefallsfreeforall.MineFallsFreeForAll
+api-version: 1.17
+authors: [ Giorno420 ]
+description: A free-for-all plugin which adds some epic stuff to the game
+website: https://giorno.is-a-good.dev
+commands:
+  shop:
+    usage: /<command>
